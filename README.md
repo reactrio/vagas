@@ -8,7 +8,7 @@ Vagas disponíveis em: https://github.com/reactrio/vagas/issues
 
 ## Cadastrando uma vaga
 
-Para anunciar a vaga clique <a href="https://github.com/reactrio/vagas/issues/new?template=vagas_template.md&title=[NOME+DA+EMPRESA]+Desenvolvedor+React+ou+ReactNative">aqui</a>.
+Para anunciar a vaga clique <a href="https://github.com/reactrio/vagas/issues/new?template=vagas_template.md&title=[NOME+DA+EMPRESA]+Desenvolvedor+ReactNative.">aqui</a>.
 
 Exemplo: `[NOME DA EMPRESA] Desenvolvedor React ou ReactNative`
 
