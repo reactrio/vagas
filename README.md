@@ -29,11 +29,11 @@ Com o objetivo de manter a qualidade das vagas postadas e respeitar todas as pes
 
 _OBS.: Sabemos que é dificil controlar todas essas regras, portanto pedimos que nos ajudem e que tenham bom senso_
 
-### Cuide da sua vaga ;)
+### ⚠️ Cuide da sua vaga ;)
 
 Para evitar que possíveis candidatos enviem CVs para vagas já preenchidas, dê manutenção à sua issue, a cada 3 meses, coloque um comentário que continua procurando para a vaga ou feche a mesma comentando se a pessoa foi contratada através do nosso grupo ou por fora. Caso a issue passe de 3 meses e não tiver manutenção, a mesma poderá ser fechada por um moderador do repositório.
 
-### Como receber atualizações de novas vagas:
+### 🔔 Como receber atualizações de novas vagas:
 
 Você pode receber atualizações das vagas no seu email ou via notificações do Github, basta clicar em **Watch** e, em seguida, clicar em **Watching**, você pode modificar o modo de receber notificações em **[notifications](https://github.com/settings/notifications)** no próprio Github.
 
@@ -65,6 +65,7 @@ listas onde você poderá postar sua vaga também:
 - [Vagas para desenvolvedores Flutter](https://github.com/flutter-brazil/vagas)
 - [Vagas para desenvolvedores React/React Native](https://github.com/react-brasil/vagas)
 - [Vagas para desenvolvedores React Native](https://github.com/react-native-drops/vagas)
+- [Vagas para desenvolvedores NestJS](https://github.com/NestBR/vagas)
 - [Vagas para desenvolvedores .NET](https://github.com/dotnetdevbr/vagas)
 - [Vagas para desenvolvedores Rust](https://github.com/rustdevbr/vagas)
 - [Vagas para desenvolvedores Elm](https://github.com/FidelisClayton/elm-jobs)
